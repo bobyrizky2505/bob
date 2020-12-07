@@ -1,4 +1,4 @@
 expert PHP programmer
-RESTful APsI
-go lajnjnjjng
+RESTful API
+YII framework
 OOP
